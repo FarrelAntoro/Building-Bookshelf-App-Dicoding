@@ -1,6 +1,4 @@
-# Building-Bookshelf-App
-
-Data Management Website Project Using DOM and Web Storage Dicoding
+# AppBuilding Bookshelf App Data Management Website Project Using DOM and Web Storage Dicoding
 
 ---
 
