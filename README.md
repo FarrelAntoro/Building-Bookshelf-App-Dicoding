@@ -1,7 +1,7 @@
-# Membangun-Bookshelf-App
+# Building-Bookshelf-App
 
-Merupakan Projek Website Pengelolaan Data Menggunakan DOM dan Web Storage Dicoding
+Data Management Website Project Using DOM and Web Storage Dicoding
 
 ---
 
-Untuk menjalankan project ini, pastikan semua file sudah terinstall dan letaknya di folder yang sama pada komputer/laptop Anda.
+To run this project, make sure all files are installed and located in the same folder on your computer/laptop.
